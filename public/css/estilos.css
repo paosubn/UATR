@@ -1,0 +1,155 @@
+/*input[type="text"], textarea, select, option, input[type="password"], input[type="search"]{
+    text-transform: uppercase;
+}*/
+body{
+	padding-top: 50px;
+}
+
+header{
+	margin-bottom: 10px;
+}
+
+.navbar{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	background-color:#222222;
+	margin-bottom: 10px;
+}
+
+.nav-tabs .nav-item > a{
+	/*color: #537E8A*/
+	/*#A5A5A5;*/
+}
+
+.nav-tabs .nav-item .active{
+	color: #000000;
+	background-color: #D6D6D6;
+	border-color: #ddd #ddd #ddd;
+}
+
+.logofge{
+	height: 40px;
+}
+
+input[type=password]{
+  margin-bottom: 25px;
+}
+
+/***ESTILOS CESAR***/
+#filmunicipio{
+	margin-top: 8px;
+}
+
+#busquedafolio{
+	padding-left: 6px;
+}
+
+.container-create{
+	margin-top: .10em;
+}
+
+.button{
+    background-color: white;
+    border: none;
+    color: white;
+    padding: 9px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1{
+   
+    background-color: white; 
+    color: black; 
+    border:solid #919691;
+
+}
+
+.button1:hover {
+    background-color: #919691;
+    color: white;
+}
+
+
+.button2{
+    
+   background-color: white; 
+    color: black; 
+    border:solid #8A1820;
+
+}
+
+.button2:hover {
+    background-color: #8A1820;
+    color: white;
+}
+
+.button3{
+    
+    background-color: white; 
+    color: black; 
+    border:solid #919691;
+
+}
+
+.button3:hover {
+    background-color: #919691;
+    color: white;
+}
+
+.button4{
+   
+   background-color: white; 
+    color: black; 
+    border:solid #919691;
+
+}
+
+.button4:hover {
+    background-color: #919691;
+    color: white;
+}
+
+#nav-profile-tab{
+color: #060606;
+    
+
+}
+/*.boxone{
+	background-color: #D6D6D6;
+	border: solid 1px #BFBFBF;
+	min-height: 520px;
+	padding: 0px;
+}
+
+.boxtwo{
+	background-color: #D6D6D6;
+	border: solid 1px #BFBFBF;
+	margin: 8px;
+	padding: 7px;
+}
+
+.barras{
+	width: 99%;
+	height: 500px; 
+	overflow: scroll;
+}*/
+
+/*textarea {
+	resize: none;
+}
+*/
+/*.boxcollapse{
+	background-color: #D6D6D6;
+}*/
+/*html{
+  	font-family: 'neosanspro-regular';
+  	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}*/
